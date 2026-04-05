@@ -205,10 +205,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Unsloth team for efficient fine-tuning tools
 - Hugging Face for the MedQuad dataset and transformers library
 
-## 📞 Contact
 
-For questions or collaborations, please reach out via [your-email@example.com] or create an issue in the repository.
-
----
 
 *This project demonstrates practical application of modern NLP techniques for healthcare AI, balancing technical excellence with ethical considerations in medical AI development.*
